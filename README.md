@@ -28,8 +28,7 @@ IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and 
 ## How to use honeTruckerByMICTC-TOPBOY
 
 * `1` to track phone number.
-* `trace` for more information.
-* 
-* `ip-trace -m` to track your own ip address.
+* `2` for more information.
+
 
 **This project is  actively maintained.**
