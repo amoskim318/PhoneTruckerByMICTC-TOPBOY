@@ -20,7 +20,7 @@ IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and 
 
 * `cd PhoneTruckerByMICTC-TOPBOY`
 
-* `chmod +x install *`
+* `chmod +x *`
 
 * `python AMTOPKIM.py` or `
 
