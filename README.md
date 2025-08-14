@@ -7,9 +7,7 @@ IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and 
 <p align="">
 <img " width="47%" src="src/Screenshot_20250813-200904 (1).png"/>
 </p>
-<p kim>
-<img " width="40%" src="src/Screenshot_20250814-083919.png"/>
-</p>
+
 
 ## How to install IP-Tracer ?
 
